@@ -1,0 +1,31 @@
+object MyDModule: TMyDModule
+  Height = 480
+  Width = 640
+  object DataSource1: TDataSource
+    DataSet = FDQuery1
+    Left = 472
+    Top = 128
+  end
+  object FDQuery1: TFDQuery
+    Connection = FDConnection1
+    FetchOptions.AssignedValues = [evMode, evRowsetSize]
+    SQL.Strings = (
+      '')
+    Left = 368
+    Top = 128
+  end
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=powerdb'
+      'DriverID=MySQL'
+      'Password=delphi5555'
+      'Server=211.115.107.133'
+      'User_Name=middler'
+      'CharacterSet=utf8')
+    FetchOptions.AssignedValues = [evMode]
+    Connected = True
+    LoginPrompt = False
+    Left = 264
+    Top = 128
+  end
+end

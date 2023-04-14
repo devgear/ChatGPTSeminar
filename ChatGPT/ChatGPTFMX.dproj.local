@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.881,=D:\temp\DX11\Unit8.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.284,D:\temp\DX11\Unit8.pas=D:\5sh_Delphi\DX11\ChatGPT\MainCGPT.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.284,D:\temp\DX11\Unit8.fmx=D:\5sh_Delphi\DX11\ChatGPT\MainCGPT.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.791,=D:\5sh_Delphi\DX11\ChatGPT\DelphiChatGPT.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.347,D:\5sh_Delphi\DX11\ChatGPT\DelphiChatGPT.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.950,D:\temp\DX11\Project8.dproj=D:\5sh_Delphi\DX11\ChatGPT\ChatGPTFMX.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="R5CT32K92FW" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
